@@ -1,0 +1,74 @@
+.carousel-caption d-none d-md-block{
+    margin-right: auto;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.carousel-caption h1 {
+    font-size: 50px;
+    color: #000000;
+}
+
+.carousel-caption p {
+    margin: 30px 30px;
+    color: #000000;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.btn-info{
+    margin-bottom: 400px;
+
+}
+
+.titulo1 {
+    margin-right: auto;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+.titulo1 h2 {
+    font-weight: bold;
+}
+
+.container h2 {
+    font-weight: bold;
+}
+
+.card {
+    margin: auto;
+    margin-bottom: 5px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+}
+
+.titulo2 {
+    padding-top: 70px;
+    padding-left: center;
+    padding-bottom: 30px;
+}
+
+.titulo2 h2{
+    color: #000000;
+}
+
+.rodape {
+    overflow: auto;
+}
+
+.rodape img {
+    width: 300px;
+    height: 400px;
+    float: left;
+    margin-right: center;
+    margin-left: 250px;
+}
+
+.end p {
+    margin-top: 10px;
+    background-color: #b2cdda;
+    max-width: auto;
+}
